@@ -118,7 +118,7 @@ body {
 .temperature {
   color: white;
   font-weight: 300;
-  font-size: 8vw;
+  font-size: 10vw;
 }
 .summary {
   color: #d2e9fa;
@@ -149,7 +149,7 @@ body {
 }
 
 #cityname1 {
-  font-size: 3vw;
+  font-size: 6vw;
   display: inline;
   text-decoration: solid;
 }
